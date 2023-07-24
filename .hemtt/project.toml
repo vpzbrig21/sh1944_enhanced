@@ -1,0 +1,13 @@
+name = "Spearhead 1944 Enhanced"
+author = "vPanzerbrigade 21 S4"
+prefix = "sh44e"
+mainprefix = "z"
+
+[asc]
+enabled = true
+exclude = [
+    "/xeh_prep.sqf",
+]
+
+[version]
+git_hash = 0 # Disabled

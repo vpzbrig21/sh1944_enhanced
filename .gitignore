@@ -1,0 +1,17 @@
+*.pbo
+.hemttout
+hemtt
+hemtt.exe
+*.biprivatekey
+
+@*
+*.zip
+release/*
+releases/*
+texHeaders.bin
+Thumbs.db
+CHANGELOG.md
+sqfvm.exe
+ArmaScriptCompiler.exe
+*.sqfc
+.vscode/*

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="PB21">
+    <Package name="main">
+    <Container name="CBA_Settings">
+        <Key ID="STR_pb21_main_category">
+            <English>PzBrig21 Enhanced</English>
+            <German>PzBrig21 Enhanced</German>
+        </Key>
+    </Container>
+    <Container name="Misc">
+        <Key ID="str_pb21_main_authors">
+            <Original>vPanzerbrigade 21 S4</Original>
+            <German>vPanzerbrigade 21 S4</German>
+            <Chinese>vPanzerbrigade 21 S4</Chinese>
+            <Chinesesimp>vPanzerbrigade 21 S4</Chinesesimp>
+            <Korean>vPanzerbrigade 21 S4</Korean>
+        </Key>
+        <Key ID="str_pb21_main_URL">
+            <Original>https://forum.vpzbrig21.de</Original>
+            <German>https://forum.vpzbrig21.de</German>
+            <Chinese>https://forum.vpzbrig21.de</Chinese>
+            <Chinesesimp>https://forum.vpzbrig21.de</Chinesesimp>
+            <Korean>https://forum.vpzbrig21.de</Korean>
+        </Key>
+    </Container>
+</Package>
+</Project>
