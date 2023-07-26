@@ -1,0 +1,17 @@
+#define COMPONENT opel_blitz
+#define COMPONENT_BEAUTIFIED Opel_Blitz
+#include "\z\sh44e\addons\main\script_mod.hpp"
+
+// #define DEBUG_MODE_FULL
+// #define DISABLE_COMPILE_CACHE
+// #define CBA_DEBUG_SYNCHRONOUS
+
+#ifdef DEBUG_ENABLED_BLANK
+    #define DEBUG_MODE_FULL
+#endif
+
+#ifdef DEBUG_SETTINGS_BLANK
+    #define DEBUG_SETTINGS DEBUG_SETTINGS_BLANK
+#endif
+
+#include "\z\sh44e\addons\main\script_macros.hpp"
