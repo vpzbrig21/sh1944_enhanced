@@ -6,7 +6,7 @@ class CfgPatches {
         units[] = {};
         weapons[] = {};
         requiredVersion = REQUIRED_VERSION;
-        requiredAddons[] = {"cba_main"};
+        requiredAddons[] = {"cba_main", "ace_main", "WW2_SPE_Assets_c_Vehicles_ZZZ_AllVehiclesLoaded_c"};
         author = CSTRING(authors);
         url = CSTRING(URL);
         VERSION_CONFIG;
