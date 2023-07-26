@@ -1,7 +1,7 @@
 class CfgVehicles {
     class SPE_WheeledTracked_APC_base;
     class SPE_Halftrack_base: SPE_WheeledTracked_base {
-        	fuelCapacity = "320 * 0.165";
+        fuelCapacity = "320 * 0.165";
         ace_refuel_fuelCapacity = 230;
         ace_refuel_canReceive = 1;
         ace_refuel_flowRate = 1;
