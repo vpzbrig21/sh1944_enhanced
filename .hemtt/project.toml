@@ -3,6 +3,15 @@ author = "vPanzerbrigade 21 S4"
 prefix = "sh44e"
 mainprefix = "z"
 
+[files]
+include = [
+    "mod.cpp",
+    "READDME.md",
+    "AUTHORS.txt",
+    "LICENSE",
+    "logo_sh44e_ca.paa"
+]
+
 [asc]
 enabled = true
 exclude = [
